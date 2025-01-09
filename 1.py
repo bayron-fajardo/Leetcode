@@ -13,3 +13,5 @@ def sum(list,target):
 
 
 print(sum(nums, target))
+a = 5
+print(type(a))
